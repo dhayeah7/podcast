@@ -59,7 +59,7 @@ Everything—transcription, highlight detection, speaker tracking, subtitles, an
 
 ### 1. Clone Project
 ```bash
-git clone https://github.com/avr-varshan/ai-podcast-clipper-saas.git
+git clone https://github.com/dhayeah/podcast.git
 ```
 
 ### 2. Backend Setup (Modal + FastAPI)
